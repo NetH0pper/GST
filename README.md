@@ -19,7 +19,9 @@ GST Invoice or gst-invoice is a simple Invoicing application for generating Invo
 - MySQL
 
 ##Youtube Link
-https://youtu.be/0MbQjIXBQoM
+
+
+https://youtu.be/D3vFsgKiapM
 
 ## Setup
 1. Create a directory on the local file system.
