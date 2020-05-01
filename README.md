@@ -10,6 +10,7 @@ GST Invoice or gst-invoice is a simple Invoicing application for generating Invo
 - Internet
 - Visual Studio
 - Microsoft SQL Server
+- xampp server
 
 
 
