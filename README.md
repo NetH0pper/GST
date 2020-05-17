@@ -1,7 +1,7 @@
 # GST
 A GST Billing system to create invoice.
 
-GST Invoice or gst-invoice is a simple Invoicing application for generating Invoice as per India GST Guideline. This is a Billing software and you can deploy it on local machine as well. This is a distributed Invoice Application built for generating Sales Invoices and Bills as per GST Guideline of Indian Government. It will be a good for somebody looking for a really simple GST Invoicing system.
+GST Invoice or gst-invoice is a simple Invoicing application made from scratch for generating Invoice as per India GST Guideline. This is a Billing software and you can deploy it on local machine as well. This is a distributed Invoice Application built for generating Sales Invoices and Bills as per GST Guideline of Indian Government. It will be a good for somebody looking for a really simple GST Invoicing system.
 
 
 
